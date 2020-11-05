@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ekosmed-58431",
+  "private_key_id": "fb1a5a2d31de7af9533bcaa875d5a796b156e16e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2+fJj/v/j5U6P\npb0ox5mKFPQYpWqhPAsdDfpVdcrjOgOAMcb54QUDStHTYxB/qzcA8qXkMOIKOj1C\ndZOHn/Ff90CHAQ6AaQ9XSwipk4YQUa0WO0zSrsOKpUOOjsvkn+/1JHUl6Ccu3P0L\nGTkQawozC4pFpKVvElRI/Zw1Z1zmYprOkjndvDSYyuW2aR3M59CsEwzumYIf9Uqx\niVGwjtyPRKjNixSEn0ZyO70agIloOzQi+ipmGvS3NN9v0SUijOxcHWKHRV9JEhcQ\nD3pp26ghtAlSVhaZMUUgLfAR/X7oXeNkI+jMczryMmDv+ss2B5HO4j9xkAa7S3uH\nrExnWARvAgMBAAECggEAAnIi8LEuJq1ox1PImUmEJO4BgbFdslrqWNktjPc6SZ8V\nRLJQTuIt1azMUyjxRb/gpgug1Kcj0yuByrlD9NDJJKI4GPXjJ8VEAv9471ZKDnG4\nhL/914fILdQ7xYNcq6C3z9n3eS5pJc6m4hBUWWCqx6spydZ20Nn4xXPNmmB6bnWG\nbEwdehHpmop8EwL763chjyzxpGOc5n3Ljm5+IaqveydLBq8p0FAJK7wmKWSDqjDr\nrmxXR8hUczcNo2RPOGqSw3nNoHmdiFsQ0U/oizVxgizzYPsJuEyIatoeFY8JAK9f\nu0ugw3VcAUs+2qTukm0yOY4C2wbn3lXNenkWGpuSVQKBgQDtLfFZj3Mt4qAOu3G+\nME7k7TtKus1Zz9y48QfiYA0cbfngFKIfv6RCcU3T/Oh28IHPr9nfF/Tw50Cb3Fh+\nvLwvMRVMPZid9NAo7twRh7e61gWhOCUkUL5IdI0LLZrUFxqBxf1CsZQHE+HMrw6X\nHs29wzkboYpemj72GfXdH+dSGwKBgQDFfuxvGgdP7YmzpDnp+eZr/e78RI4hcb4G\nD1p468z5nnrNhX2wsA/nqA64B2RP0umtHRQWeT+2J5eD5sBoT8OOQF0zuydIj3kK\nyLoApqWVLJIzXaRRNPE22OxRHsa8oKm+Sqx4pfSGvOsBtv71rG+rrJlE3KrVifJ1\n3Co9sKOcPQKBgQDLOORlks5j8JyoQt/w0D+pU8PMAkdVvw8mwA+7XgWd6HWEFOnd\nPj2mWKMREtC0qNrxc4HA8CwGBn+LjL+eyGSOIwZWryiHn26ExDV4J8u7oQpt20en\n2C9SsdrwSwEw3SLvMxAQB0wIzHZbBVwBDHnJMO9Lx5xh9tQf1pqd/2obJQKBgQC8\n5GqK0OBRiCX+VYK20LecbmGXkpJGVp2i+ihUI2QHE5bs31KaHar4rHp3dUpyNo4d\nbwR5gjp3pGJ8W8WHf1LQyarbAZPPCLqCn/2XBcy1Ys3qpxO0P+i9xrgv1jnKy/fN\n82oGcuPvwt0a5MXyf5zHG+v0OwKB/tCR/aPBISM7GQKBgHp4Zx37Z85+Rtpktj7u\nQnC1rIgQSmqjbtaKMvg0Q/8pEEXo1YIvnypc5n+GgwdOznAzkmGusd3bAQZB1XJs\nZ7uh4BJO2kH0XphRhtY9WobWokNoduJH0RWfNlGRjZckZCZKquEXH3BbrhZSeVoF\n8ijb09adHvymeFe8ge0OSXDb\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n5n5a@ekosmed-58431.iam.gserviceaccount.com",
+  "client_id": "110050450901368084341",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n5n5a%40ekosmed-58431.iam.gserviceaccount.com"
+}
